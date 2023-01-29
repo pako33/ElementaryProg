@@ -1,1 +1,1 @@
-Elementary Programming Course work done with Python
+Elementary Python Course Project
